@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
-
 https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
+
+https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
 
 https://raw.githubusercontent.com/nashosted/self-hosted-template/master/template.json
