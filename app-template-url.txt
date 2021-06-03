@@ -3,7 +3,3 @@ https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/t
 https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
 
 https://raw.githubusercontent.com/nashosted/self-hosted-template/master/template.json
-
-https://raw.githubusercontent.com/ACNiC03/portainer-template/main/template.json
-
-https://raw.githubusercontent.com/ACNiC03/portainer-template/main/template2%20(without%20shiori).json
