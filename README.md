@@ -1,0 +1,1 @@
+This is a template list for portainer with the official portainer app templates combined with https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json template list
