@@ -1,5 +1,4 @@
 import json
-from urllib import response
 import requests
 
 file = open('new2.json', 'r+')
