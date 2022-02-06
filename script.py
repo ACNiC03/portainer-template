@@ -1,7 +1,7 @@
 import json
 import requests
 
-file = open('new2.json', 'r+')
+file = open('new.json', 'r+')
 
 url1 = 'https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json'
 url2 = 'https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json'
